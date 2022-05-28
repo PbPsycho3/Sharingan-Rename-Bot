@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/cartoon_seriesz",
   "website": "https://github.com/dakshkohli23",
-  "repository": "https://github.com/dakshkohli23/Sharingan-Rename-Bot",
+  "repository": "https://github.com/PbPsycho3/Sharingan-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
